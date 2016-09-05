@@ -6,4 +6,4 @@ In this directory i'll put the java codes of the MI - Programação 2016.1 at UE
 
 -STM -> Second problem called Sistema de Transferência de Mensagens. Just a simple chat.
 
-This codes may contain some errors. Just releve them and have fun :D
+These codes may contain some errors. Just releve them and have fun :D
