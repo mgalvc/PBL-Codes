@@ -6,4 +6,6 @@ In this repository i'll put the java codes of the MI - Programação 2016.1 at U
 
 -STM -> Second problem called Sistema de Transferência de Mensagens. Just a simple chat.
 
+-SGAD -> Third problem called Sistema de Gerenciamento de Arquivos e Diretórios.
+
 These codes may contain some errors. Just forget them and have fun :D
